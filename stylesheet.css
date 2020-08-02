@@ -97,7 +97,9 @@ nav li{
 .open-menu{
   width: 100%;
 }
-
+.header-right a{
+  display:block;
+}
 a:hover{
   background-color: rgba(10, 10, 15, 0.5);
   transition: 0.2s;
