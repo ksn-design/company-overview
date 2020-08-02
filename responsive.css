@@ -1,9 +1,10 @@
 @media (max-width:670px) {
   .company-overview h2{
-    font-size: 18px;
+    font-size: 20px;
   }
   .company-overview p{
-    line-height: 28px;
+    line-height: 30px;
+    font-size: 18px;
   }
   .details{
     width: 25%;
