@@ -109,6 +109,9 @@ a:hover{
   position: absolute;
   top: 50px;
   padding:20px 0;
+  background: #fff;
+}
+.detail-wrapper{
   background: #f7f7f7;
 }
 .title{
