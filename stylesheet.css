@@ -98,8 +98,9 @@ nav li{
   width: 100%;
 }
 .header-right a{
-  display:block;
+  display: block;
 }
+
 a:hover{
   background-color: rgba(10, 10, 15, 0.5);
   transition: 0.2s;
@@ -112,6 +113,9 @@ a:hover{
   top: 50px;
   padding:20px 0;
   background: #fff;
+}
+.company-overview p{
+  padding-bottom:30px;
 }
 .detail-wrapper{
   background: #f7f7f7;
